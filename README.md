@@ -1,3 +1,5 @@
+**Note**: This is in process of publication - Achieved 85% 
+
 **Can Machine Learning Detect Psychological Biases in Consumer Purchase Behaviour?** _A behavioural data approach to predictive modelling and interpretation_
 
 **Overview**
