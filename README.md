@@ -1,71 +1,71 @@
-**Note**: This is in process of publication - Achieved 85% 
+**Note**: This is in process of publication
 
 **Can Machine Learning Detect Psychological Biases in Consumer Purchase Behaviour?** _A behavioural data approach to predictive modelling and interpretation_
 
 
-                                                              **OVERVIEW**
+                                              OVERVIEW
 
 This project explores whether machine learning models can detect psychological biases—specifically urgency, social proof, and framing effects—within consumer purchasing behaviour.
 By applying behavioural data analysis and predictive modelling, this research bridges the gap between data science and behavioural psychology, demonstrating how patterns in digital consumer activity can reveal underlying cognitive biases that influence decisions.
 
 
-**OBJECTIVES**
+                                              OBJECTIVES
 
-o Build predictive models to identify bias-driven consumer behaviour.
+1. Build predictive models to identify bias-driven consumer behaviour.
 
-o Evaluate which machine learning algorithms perform best in bias detection.
+2. Evaluate which machine learning algorithms perform best in bias detection.
 
-o Examine how data quality and feature engineering impact model accuracy.
+3. Examine how data quality and feature engineering impact model accuracy.
 
-o Use explainable AI (SHAP) to interpret model outputs and uncover key behavioural drivers.
+4. Use explainable AI (SHAP) to interpret model outputs and uncover key behavioural drivers.
 
 
-**METHODOLOGY**
+                                             METHODOLOGY
 
 **_Data Preparation_**
 
-o Preprocessed and cleaned consumer interaction datasets.
+1. Preprocessed and cleaned consumer interaction datasets.
 
-o Engineered behavioural features representing bias indicators (e.g., urgency signals, social proof cues).
+2. Engineered behavioural features representing bias indicators (e.g., urgency signals, social proof cues).
 
 **_Modelling_**
 
-o Implemented multiple models including Logistic Regression, Random Forest, XGBoost, and Neural Networks.
+3. Implemented multiple models including Logistic Regression, Random Forest, XGBoost, and Neural Networks.
 
-o Evaluated using metrics such as accuracy, precision, recall, and F1 score.
+4. Evaluated using metrics such as accuracy, precision, recall, and F1 score.
 
 **_Interpretability_**
 
-o Applied SHAP (SHapley Additive exPlanations) to visualise and explain feature contributions.
+5. Applied SHAP (SHapley Additive exPlanations) to visualise and explain feature contributions.
 
-o Analysed bias detection reliability and feature influence on predictions.
-
-
-**RESULTS**
-
-o Achieved 95% accuracy in detecting urgency bias and strong performance across other bias types.
-
-o Found that data quality and feature relevance outweighed model complexity in improving predictive accuracy.
-
-o SHAP visualisations provided interpretable evidence for bias-linked behavioural patterns.
+6. Analysed bias detection reliability and feature influence on predictions.
 
 
-**KEY INSIGHTS**
+                                               RESULTS
 
-o Machine learning can successfully detect psychological biases when behavioural data is sufficiently rich and structured.
+1. Achieved 95% accuracy in detecting urgency bias and strong performance across other bias types.
 
-o Explainable AI is crucial for understanding not just what the model predicts, but why.
+2. Found that data quality and feature relevance outweighed model complexity in improving predictive accuracy.
 
-o Integrating behavioural theory with data science offers a new frontier for consumer analytics and decision modelling.
+3. SHAP visualisations provided interpretable evidence for bias-linked behavioural patterns.
 
 
-**TECHNOLOGIES USED**
+                                             KEY INSIGHTS
 
-o Python: Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow
+1. Machine learning can successfully detect psychological biases when behavioural data is sufficiently rich and structured.
 
-o Explainability: SHAP
+2. Explainable AI is crucial for understanding not just what the model predicts, but why.
 
-o Data Visualisation: Matplotlib, Seaborn, Tableau
+3. Integrating behavioural theory with data science offers a new frontier for consumer analytics and decision modelling.
+
+
+                                           TECHNOLOGIES USED
+
+Python: Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow
+
+Explainability: SHAP
+
+Data Visualisation: Matplotlib, Seaborn, Tableau
 
 
 
