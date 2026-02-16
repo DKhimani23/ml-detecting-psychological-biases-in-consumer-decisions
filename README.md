@@ -2,7 +2,7 @@
 
 **Can Machine Learning Detect Psychological Biases in Consumer Purchase Behaviour?** _A behavioural data approach to predictive modelling and interpretation_
 
-**Overview**
+                                                              **Overview**
 
 This project explores whether machine learning models can detect psychological biases—specifically urgency, social proof, and framing effects—within consumer purchasing behaviour.
 By applying behavioural data analysis and predictive modelling, this research bridges the gap between data science and behavioural psychology, demonstrating how patterns in digital consumer activity can reveal underlying cognitive biases that influence decisions.
